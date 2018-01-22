@@ -281,7 +281,7 @@ Toast.makeText(this, "查询全部数据==>" + userName, Toast.LENGTH_SHORT).sho
 
 # 不废话了，直接上效果图
 
-
+![image text](https://github.com/zhiweiAndroid/GreenDaoDemo/blob/master/greendao.png)
 
 # 还可以执行sql 语句
 
